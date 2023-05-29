@@ -1,0 +1,22 @@
+#create a dashboard of my project when lab section divide in 3 groups 
+
+# first create file dashboard.html
+
+#their is three navigation bar
+ 
+#INTRODUCTION
+#ABOUT YOUR PROJECTS 
+#PROJECTS DETAILS 
+
+using header footer or navigation bar 
+home, about, circuite, code 
+
+location of this prj : (file:///C:/Users/user/Desktop/Dashboard.html.html
+ 
+WRITE A CODE USING HTML CSS JS AND USED A PLATFORM VSCODE TO DESING A DASHBOARD
+
+THIER ARE VARIOUS TYPES OF TAG AARE USED IN DASHBAORD 
+
+AND ADD IMAGES 
+
+
